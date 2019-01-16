@@ -1,6 +1,5 @@
-the trex runner game extracted from chrome offline err page.
+Jumppr By Sid
 
+[go and enjoy! :smile: ](http://kenspiretech.github.io/jumppr/)
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
-
-![chrome offline game cast](assets/screenshot.gif)
+![Gameplay](assets/jumpprfinal.mp4)
