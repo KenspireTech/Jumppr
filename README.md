@@ -1,5 +1,5 @@
-Jumppr By Sid
+#Jumppr By Sid
 
-[go and enjoy! :smile: ](http://kenspiretech.github.io/jumppr/)
+[##**Go and Enjoy The Game!** 👍🏻 ](http://kenspiretech.github.io/jumppr/)
 
-![Gameplay](assets/jumpprfinal.mp4)
+![######Gameplay](assets/jumpprfinal.gif)
